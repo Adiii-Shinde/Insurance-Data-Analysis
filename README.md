@@ -1,5 +1,7 @@
 # 📊 Insurance Data Analysis - Power BI Dashboard
 
+# Preview - https://app.powerbi.com/links/_fhmYNDJ1b?ctid=886abe6e-5df5-4218-aa37-00e1df3c3234&pbi_source=linkShare
+
 A comprehensive Power BI dashboard analyzing insurance claims, policies, and premium data for **PRISM Insurance PVT. LTD.** This project demonstrates expertise in data visualization, business intelligence, and insurance domain analytics.
 
 ---
