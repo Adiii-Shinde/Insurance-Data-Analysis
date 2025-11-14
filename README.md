@@ -1,4 +1,4 @@
-# 📊 Insurance Data Analysis - Power BI Dashboard
+w# 📊 Insurance Data Analysis - Power BI Dashboard
 
 # Preview - https://app.powerbi.com/links/_fhmYNDJ1b?ctid=886abe6e-5df5-4218-aa37-00e1df3c3234&pbi_source=linkShare
 
@@ -203,7 +203,7 @@ This project is part of a comprehensive **Data Analytics Portfolio** demonstrati
 - SQL and database management
 - Python for data processing
 
-**[View Full Portfolio](https://github.com/username)** | **[LinkedIn Profile](https://linkedin.com/in/username)** | **[Email](mailto:your.email@example.com)**
+**[View Full Portfolio](https://adiii-shinde.github.io/portfolio)** | **[LinkedIn Profile](https://www.linkedin.com/in/aditya-shinde-6b29002a8)** | **[Email](mailto:your.adityashinde952003@gmail.com)**
 
 ---
 
